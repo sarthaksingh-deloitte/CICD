@@ -1,0 +1,200 @@
+[
+  {
+    "INCOME": 25000.0,
+    "PANCARD": "ABX0001",
+    "PASSWORD": "Seegp@123",
+    "OCCUPATION": "Linker",
+    "DOB": "31/07/2000",
+    "LAST_NAME": "Paul",
+    "USERID": 1,
+    "FIRST_NAME": "Seegan",
+    "EMAIL": "seegp@gmail.com"
+  },
+  {
+    "INCOME": 50000.0,
+    "PANCARD": "ABC0001",
+    "PASSWORD": "NNN111",
+    "OCCUPATION": "Linker",
+    "DOB": "18/04/2000",
+    "LAST_NAME": "LNU",
+    "USERID": 2,
+    "FIRST_NAME": "NAVYA",
+    "EMAIL": "navyamadival@gmail.com"
+  },
+  {
+    "INCOME": 25000.0,
+    "PANCARD": "ABCD12345",
+    "PASSWORD": "@000111222@",
+    "OCCUPATION": "Linker",
+    "DOB": "18-04-2000",
+    "LAST_NAME": "Madival",
+    "USERID": 3,
+    "FIRST_NAME": "NAVYA",
+    "EMAIL": "navyamadival123@gmail.com"
+  },
+  {
+    "INCOME": 25000.0,
+    "PANCARD": "ABCD12395",
+    "PASSWORD": "@0001222@",
+    "OCCUPATION": "Linker",
+    "DOB": "18-04-2001",
+    "LAST_NAME": "Madival",
+    "USERID": 4,
+    "FIRST_NAME": "NAV",
+    "EMAIL": "navyamadival1@gmail.com"
+  },
+  {
+    "INCOME": 25000.0,
+    "PANCARD": "KAVYA12345",
+    "PASSWORD": "@KKK111222@",
+    "OCCUPATION": "Linker",
+    "DOB": "18-04-2000",
+    "LAST_NAME": "Madival",
+    "USERID": 5,
+    "FIRST_NAME": "KAVYA",
+    "EMAIL": "kavyamadival123@gmail.com"
+  },
+  {
+    "INCOME": null,
+    "PANCARD": null,
+    "PASSWORD": null,
+    "OCCUPATION": null,
+    "DOB": null,
+    "LAST_NAME": null,
+    "USERID": 6,
+    "FIRST_NAME": null,
+    "EMAIL": null
+  },
+  {
+    "INCOME": 25000.0,
+    "PANCARD": "BAVYA12345",
+    "PASSWORD": "@bbb111222@",
+    "OCCUPATION": "Linker",
+    "DOB": "18-04-2000",
+    "LAST_NAME": "Madival",
+    "USERID": 7,
+    "FIRST_NAME": "BAVYA",
+    "EMAIL": "bavyamadival123@gmail.com"
+  },
+  {
+    "INCOME": 25000.0,
+    "PANCARD": "PANSA0012",
+    "PASSWORD": "savith@123",
+    "OCCUPATION": "Linker",
+    "DOB": "27-09-2000",
+    "LAST_NAME": "Kumar",
+    "USERID": 8,
+    "FIRST_NAME": "Savith",
+    "EMAIL": "savith27@gmail.com"
+  },
+  {
+    "INCOME": 25000.0,
+    "PANCARD": "VACH0009",
+    "PASSWORD": "honnudike212",
+    "OCCUPATION": "Linker",
+    "DOB": "12-03-2000",
+    "LAST_NAME": "Honnudike",
+    "USERID": 9,
+    "FIRST_NAME": "Vachan",
+    "EMAIL": "honnudike@gmail.com"
+  },
+  {
+    "INCOME": 25000.0,
+    "PANCARD": "VACH0009",
+    "PASSWORD": "honnudike212",
+    "OCCUPATION": "Linker",
+    "DOB": "12-03-2000",
+    "LAST_NAME": "Honnudike",
+    "USERID": 10,
+    "FIRST_NAME": "Vachan",
+    "EMAIL": "vachan@gmail.com"
+  },
+  {
+    "INCOME": 25000.0,
+    "PANCARD": "VISH0009",
+    "PASSWORD": "seegan31@",
+    "OCCUPATION": "Linker",
+    "DOB": "12-02-2001",
+    "LAST_NAME": "US",
+    "USERID": 15,
+    "FIRST_NAME": "Vishwas",
+    "EMAIL": "vishwas@gmail.com"
+  },
+  {
+    "INCOME": 35000.0,
+    "PANCARD": "XYZ005",
+    "PASSWORD": "preran@123",
+    "OCCUPATION": "Linker",
+    "DOB": "20-12-2000",
+    "LAST_NAME": "M",
+    "USERID": 16,
+    "FIRST_NAME": "Preran",
+    "EMAIL": "preran@gmail.com"
+  },
+  {
+    "INCOME": 35000.0,
+    "PANCARD": "XYA005",
+    "PASSWORD": "prem@123",
+    "OCCUPATION": "Linker",
+    "DOB": "22-12-2000",
+    "LAST_NAME": "R",
+    "USERID": 17,
+    "FIRST_NAME": "Prem",
+    "EMAIL": "prem@gmail.com"
+  },
+  {
+    "INCOME": 35000.0,
+    "PANCARD": "XYA005",
+    "PASSWORD": "pawan@123",
+    "OCCUPATION": "Linker",
+    "DOB": "22-12-2000",
+    "LAST_NAME": "R",
+    "USERID": 18,
+    "FIRST_NAME": "Pawan",
+    "EMAIL": "prem@gmail.com"
+  },
+  {
+    "INCOME": 35000.0,
+    "PANCARD": "XYA006",
+    "PASSWORD": "anu@123",
+    "OCCUPATION": "Linker",
+    "DOB": "22-12-2000",
+    "LAST_NAME": "R",
+    "USERID": 19,
+    "FIRST_NAME": "Anubhav",
+    "EMAIL": "anubhav@gmail.com"
+  },
+  {
+    "INCOME": 35000.0,
+    "PANCARD": "XYA006",
+    "PASSWORD": "anu@123",
+    "OCCUPATION": "Linker",
+    "DOB": "22-12-2000",
+    "LAST_NAME": "R",
+    "USERID": 20,
+    "FIRST_NAME": "Anubhav",
+    "EMAIL": "anubhav@gmail.com"
+  },
+  {
+    "INCOME": 35000.0,
+    "PANCARD": "XYA006",
+    "PASSWORD": "anu@123",
+    "OCCUPATION": "Linker",
+    "DOB": "22-12-2000",
+    "LAST_NAME": "R",
+    "USERID": 21,
+    "FIRST_NAME": "Ramesh",
+    "EMAIL": "anubhav@gmail.com"
+  },
+  {
+    "INCOME": 35000.0,
+    "PANCARD": "XYA007",
+    "PASSWORD": "rohan@123",
+    "OCCUPATION": "Linker",
+    "DOB": "22-12-2000",
+    "LAST_NAME": "R",
+    "USERID": 22,
+    "FIRST_NAME": "Rohan",
+    "EMAIL": "rohan@gmail.com"
+  }
+]
