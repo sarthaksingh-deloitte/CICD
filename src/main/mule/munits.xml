@@ -42,17 +42,4 @@ http://www.mulesoft.org/schema/mule/email http://www.mulesoft.org/schema/mule/em
 			</otherwise>
 		</choice>
 	</flow>
-	<flow name="munitsFlow1" doc:id="767c0eec-ff88-40bc-84f0-e893f8e57bfd" >
-		<http:listener doc:name="Listener" doc:id="365520bc-cbc0-4222-a349-69a626dc1e54" config-ref="HTTP_Listener_config1" path="/api1"/>
-		<email:send doc:name="Send" doc:id="1fb7b069-345c-4167-8573-6bb4d213bd26" config-ref="Email_SMTP" fromAddress="sarthaksingh0900@gmail.com">
-			<email:to-addresses >
-				<email:to-address value="sarthaksingh18@outlook.com" />
-			</email:to-addresses>
-			<email:headers ><![CDATA[#[output application/java
----
-{
-	"Key" : "Value"
-}]]]></email:headers>
-		</email:send>
-	</flow>
 </mule>
