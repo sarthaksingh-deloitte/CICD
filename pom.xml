@@ -33,7 +33,7 @@
 				<configuration>
 				<cloudHubDeployment>
 					<uri>https://anypoint.mulesoft.com</uri>
-					<muleVersion>4.3.0</muleVersion>
+					<muleVersion>4.4.0</muleVersion>
 					<username>mycreditunion</username>
 					<password>Deloitte@123</password>
 					<applicationName>mule-app-munits123456-cicd-github</applicationName>
